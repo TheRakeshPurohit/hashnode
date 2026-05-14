@@ -5,6 +5,7 @@ seoDescription: "Why many AI workflows don’t need agents, reasoning loops, or 
 datePublished: 2026-05-13T14:16:44.159Z
 cuid: cmp457zp7004k2fm9fb1zd1i3
 slug: not-every-ai-workflow-needs-an-agent
+cover: https://cdn.hashnode.com/uploads/covers/613dd11d22b7a41dfe5fdbc7/f795a2a3-f85d-4984-9be1-c7935d9e6553.png
 tags: ai, engineering, architecture, software-engineering, developer-experience, llm, agents, mcp
 
 ---
